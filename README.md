@@ -8,7 +8,7 @@ This project is a full-stack web application designed for users to search Twitch
 
 - **Frontend:** **React** for frontend framework, **Ant Design** for UI components
 
-- **Backend:** **Spring Boot** for RESTful API implementation, managed with Gradle
+- **Backend:** **Spring** for RESTful API implementation, managed with Gradle
 
 - **Database:** AWS RDS for storing user data and Twitch resources, primarily using **MySQL**
 
